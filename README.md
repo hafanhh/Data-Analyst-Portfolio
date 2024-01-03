@@ -10,7 +10,7 @@
 
 **Based:** London, United Kingdom
 
-**Status:** Currently Open for a **Junior Data Analyst** and **Junior Data Scientist** Job
+**Status:** Currently Open for **Junior Data Analyst** or **Junior Data Scientist** Job
 
 **Contact:** (+44) 757 6620 117 (Whatsapp)
 
