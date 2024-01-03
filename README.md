@@ -1,6 +1,6 @@
 # Alice (Ha Anh) Hoang - Data Scientist Portfolio
 
-*Exploring Data Realms: Alice embarks on a journey through data science after 2-year education of MSc. Data Analytics at University of Ulster (London) and 2-year self-learning of Data Analytics and Data Science through online courses and personal projects
+*Exploring Data Realms: Alice embarks on a journey through data science after 2-year education of MSc. Data Analytics at University of Ulster (London) and 2-year self-learning of Data Analytics and Data Science through online courses and personal projects*
 
 **Update**: 10th January 2024
 
