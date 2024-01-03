@@ -20,3 +20,10 @@
 
 
 Hello, my name is Alice (Ha Anh)! I am a data addict with a solid background in Data Analytics and a love of numbers, statistics and data in general. With a MSc degree in "Data Analytics" I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Analyst/Scientist**, I am delighted to demonstrate my technical, analytical and logical talents in the field of **Data Analytics** and **Data Science**.
+
+
+In my spare time, I am always excited investigate new data analysis / manipulation tools and approaches, always looking for ways to broaden my knowledge and sharpen my skills.
+
+If you're seeking for someone with a unique combination of business management and data analytics skills, I'd love to talk about how I might help your projects and organization. Please contact me and let's begin on a data-driven journey together!
+
+*The CV is included within the repository*
