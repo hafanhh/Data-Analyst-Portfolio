@@ -10,9 +10,9 @@
 
 **Based:** London, United Kingdom
 
-**Status:** Currently Open for a **Data Analyst** and **Data Scientist** Job
+**Status:** Currently Open for a **Junior Data Analyst** and **Junior Data Scientist** Job
 
-**Contact me:** (+44) 757 6620 117 (Whatsapp)
+**Contact:** (+44) 757 6620 117 (Whatsapp)
 
 **Email:** alice.hoang1909@gmail.com
 
